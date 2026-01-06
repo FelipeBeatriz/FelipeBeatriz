@@ -2,24 +2,29 @@
 
 #### Desenvolvedor Full Stack Junior - Cursando Análise e Desenvolvimento de Sistemas pela FIAP
 
->**Fundador da organização [Driven Soft]([https://github.com/Driven-Soft]) - onde residem meus maiores projetos!**
-
+>**Fundador da organização <a href="https://github.com/Driven-Soft" target="_blank" rel="noopener noreferrer">Driven Soft</a> - onde residem meus maiores projetos!**
 <hr>
 
-- ⚙️ **Uso diariamente:** `React.Js`, `TypeScript`, `Tailwind CSS`, `Java (Quarkus)`, `Oracle SQL`, `PHP`, `Vue`
+- ⚙️ Uso **diariamente:** `React.Js`, `TypeScript`, `Tailwind CSS`, `Java (Quarkus)`, `Oracle SQL`, `PHP`, `Vue`
 
-- 🌍 Atualmente ando estudando PHP e Vue, procuro sempre abraanger minha bagagem técnica.
+- 🌍 Atualmente ando estudando **PHP e Vue**, procuro sempre abraanger mais minha bagagem técnica.
+
+- Quer ver meus **melhores projetos?** clique ***<a href="https://github.com/FelipeBeatriz/projetos" target="_blank" rel="noopener noreferrer">nesse link</a>*** e descubra.
 
 - 📫 **Quer entrar em contato? Me envie um email ou uma mensagem no LinkedIn!**
 <div align="center">
-<a href = "mailto:felipe.beatriz199@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/felipe-beatrici" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:felipe.beatriz199@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>  &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/felipe-beatrici" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <hr>
-
-<div>
-<a href="https://github.com/FelipeBeatriz">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBeatriz&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeBeatriz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeBeatriz&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeBeatriz&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>

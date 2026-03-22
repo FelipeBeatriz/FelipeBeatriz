@@ -5,9 +5,9 @@
 >**Fundador da organização <a href="https://github.com/Driven-Soft" target="_blank" rel="noopener noreferrer">Driven Soft</a> - onde residem meus maiores projetos!**
 <hr>
 
-- ⚙️ Uso **diariamente:** `React.Js`, `TypeScript`, `Tailwind CSS`, `Java (Quarkus)`, `Oracle SQL`, `PHP`, `Vue`
+- ⚙️ Uso **diariamente:** `Ruby on Rails`, `TypeScript`, `Tailwind CSS`, `PostgreSQL`, `ReactJS`, `AngularJS` `PHP`
 
-- 🌍 Atualmente ando estudando **PHP e Vue**, procuro sempre abraanger mais minha bagagem técnica.
+- 🌍 Atualmente ando estudando **Ruby on Rails e AngularJS**, procuro sempre abraanger mais minha bagagem técnica.
 
 - Quer ver meus **melhores projetos?** clique ***<a href="https://github.com/FelipeBeatriz/projetos" target="_blank" rel="noopener noreferrer">nesse link</a>*** e descubra.
 

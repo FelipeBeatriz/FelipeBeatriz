@@ -5,7 +5,7 @@
 >**Fundador da organização <a href="https://github.com/Driven-Soft" target="_blank" rel="noopener noreferrer">Driven Soft</a> - onde residem meus maiores projetos!**
 <hr>
 
-- ⚙️ Uso **diariamente:** `Ruby on Rails`, `TypeScript`, `Tailwind CSS`, `PostgreSQL`, `ReactJS`, `AngularJS` `PHP`
+- ⚙️ Uso **diariamente:** `Ruby on Rails`, `TypeScript`, `Tailwind CSS`, `PostgreSQL`, `ReactJS`, `AngularJS`, `React Native`
 
 - 🌍 Atualmente ando estudando **Ruby on Rails e AngularJS**, procuro sempre abraanger mais minha bagagem técnica.
 
